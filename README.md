@@ -9,5 +9,6 @@ These parts identified below are just so I remember what was used later.
 
 ## Development Requirements
 - Visual Studio Code (including all suggested extensions)
+- ARM GNU Toolchain - https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
 - KiCad 8 - Used for the schematics
 - Segger JLink - Optional. Used for debugging only.
