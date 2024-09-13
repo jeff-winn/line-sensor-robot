@@ -1,5 +1,11 @@
+# VSCode files
 .vscode/**
 !.vscode/extensions.json
 !.vscode/launch.json
 
+# KiCad stuff
+schematics/**/*.bak
+schematics/**/fp-info-cache
+
+# C++ stuff
 build/
