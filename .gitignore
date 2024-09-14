@@ -6,6 +6,7 @@
 # KiCad stuff
 schematics/**/*.bak
 schematics/**/fp-info-cache
+schematics/**/*.lck
 
 # C++ stuff
 build/
